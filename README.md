@@ -33,7 +33,7 @@ The typical verbs are supported (GET, POST, PUT, PATCH, and DELETE). The `getObj
 
 ## Interface
 
-This section describes the constructor returned by this module and the available instance methodss.
+This section describes the constructor returned by this module and the available instance methods.
 
 ### Constructor
 
